@@ -1,0 +1,186 @@
+
+.main {
+    border: 5px solid black;
+    background-color: aquamarine;
+    width: 420px;
+    height: 420px;
+    position: relative;
+}
+.first {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color: blue;
+    float: left;
+    width:80px;
+    height:400px;
+}
+.second {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color:green;
+    float: left;
+    margin-left: 82px;
+    width:80px;
+    height:400px;
+}
+.third {
+    position:absolute;
+    border:1px solid black;
+    border:1px black solid;
+    text-align: center;
+    background-color:red;
+    float: left;
+    margin-left: 164px;
+    width:80px;
+    height:400px;
+}
+.forth {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color:yellow;
+    float: left;
+    margin-left: 246px;
+    width:80px;
+    height:400px;
+}
+.fifth {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color:indigo;
+    float: left;
+    margin-left: 328px;
+    width:80px;
+    height:400px;
+}
+.sub {
+    border: 5px solid black;
+    background-color: aquamarine;
+    width: 420px;
+    height: 420px;
+    position: relative;
+}
+.sfirst {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color: blue;
+    float: left;
+    width:80px;
+    height:400px;
+}
+.ssecond {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color:green;
+    float: left;
+    margin-left: 82px;
+    width:80px;
+    height:400px;
+}
+.sthird {
+    position:absolute;
+    border:1px solid black;
+    border:1px black solid;
+    text-align: center;
+    background-color:red;
+    float: left;
+    margin-left: 164px;
+    width:80px;
+    height:400px;
+}
+.sforth {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color:yellow;
+    float: left;
+    margin-left: 246px;
+    width:80px;
+    height:400px;
+}
+.sfifth {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color:indigo;
+    float: left;
+    margin-left: 328px;
+    width:80px;
+    height:400px;
+}
+.sub2 {
+    border: 5px solid black;
+    background-color: aquamarine;
+    width: 420px;
+    height: 420px;
+    float:right;
+    position: relative;
+
+}
+.ssfirst {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color: blue;
+    right: auto;
+    width:80px;
+    height:400px;
+}
+.sssecond {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color:green;
+    float: left;
+    margin-left: 82px;
+    width:80px;
+    height:400px;
+}
+.ssthird {
+    position:absolute;
+    border:1px solid black;
+    border:1px black solid;
+    text-align: center;
+    background-color:red;
+    float: left;
+    margin-left: 164px;
+    width:80px;
+    height:400px;
+}
+.ssforth {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color:yellow;
+    float: left;
+    margin-left: 246px;
+    width:80px;
+    height:400px;
+}
+.ssfifth {
+    position:absolute;
+    border: 1px solid black;
+    text-align: center;
+    border:1px black solid;
+    background-color:indigo;
+    float: left;
+    margin-left: 328px;
+    width:80px;
+    height:400px;
+}

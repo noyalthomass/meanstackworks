@@ -1,0 +1,28 @@
+.parent {
+    width:550px;
+    height: 330px;
+    background-color:black;
+    display: flex;
+   /* justify-content:space-evenly; */
+   /* justify-content: flex-end; */
+  /* justify-content: space-between; */
+  align-items: center;
+  justify-content: space-around;
+
+}
+.col {
+    width:100px;
+    height: 300px;
+}
+.col1 {
+    background-color: cyan;
+}
+.col2 {
+    background-color:darkgreen;
+}
+.col3 {
+    background-color: red;
+}
+.col4 {
+    background-color: blue;
+}

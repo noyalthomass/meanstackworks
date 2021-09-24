@@ -1,0 +1,31 @@
+.main {
+   width:100%;
+   height: 800px;
+   display: flex;
+   justify-content:space-evenly;
+}
+h1 {
+    text-align: center;
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sub {
+    width:23%;
+}
+img {
+    width:100%;
+    height: 500px;
+}
+header {
+    display: flex;
+    width:100%;
+    background-color: aquamarine;
+    height: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+header a {
+    color: black;
+    text-decoration: none;
+    padding: 40px;
+}

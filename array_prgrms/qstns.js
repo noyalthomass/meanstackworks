@@ -17,3 +17,20 @@ var arr=[1,2,3,4]  //sum=6 {2,4}  sum=5 {2,3}{1,4}   sum=7 {3,4}
 //arr=[10,11,12,13,14,11] search for 15 in this array ele fount or not fount
 
 //arr=[10,11,12,11,10] find duplicate element 10,11
+
+//day3
+//gcd 0f (14,21)
+
+//day4
+var products=[
+    [100,"oreo",40,50],
+    [101,"fifty-fifty",20,60],
+    [102,"borbourne",40,0],
+    [103,"treat",30,10],
+    [104,"arrowroot",30,0],
+    [105,"moms-magic",45,10]
+    ]
+
+    //print number of items in shop
+    //print number of available items
+    //print all product names only

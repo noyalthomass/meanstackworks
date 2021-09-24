@@ -15,7 +15,7 @@ console.log(expenses[0]);
 //for(let i=0;i<expenses.length;i++){
  //   console.log(expenses[i]);
 //}
-
+//
 
 
 
